@@ -1,4 +1,6 @@
-# pages
+# Windows 系统 DD 为 Linux 系统
+
+博客文章：https://www.spiritysdx.top/76pvewinddlinux/
 
 ![图片](https://user-images.githubusercontent.com/103393591/220626080-577842ff-f113-4bc1-aada-481526746467.png)
 ![图片](https://user-images.githubusercontent.com/103393591/220626165-b8d3d2a5-e727-49a7-8368-e15047fe6201.png)
